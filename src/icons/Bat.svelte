@@ -1,0 +1,18 @@
+<script>
+  export let size = 32;
+  export let color = "#ff5000";
+</script>
+<svg
+  viewBox="0 0 32 32"
+  xmlns="http://www.w3.org/2000/svg"
+  width="{size}"
+  height="{size}"
+>
+  <g fill="none">
+    <circle cx="16" cy="16" r="16" fill="{color}" />
+    <path
+      fill="#FFF"
+      d="M6 23.5l10.051-17L26 23.477 6 23.5zm10.027-10.12l-4.108 6.786h8.235l-4.127-6.786z"
+    />
+  </g>
+</svg>

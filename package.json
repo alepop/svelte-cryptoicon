@@ -1,0 +1,41 @@
+{
+  "name": "svelte-cryptoicon",
+  "svelte": "src/index.js",
+  "module": "dist/index.mjs",
+  "main": "dist/index.js",
+  "description": "Svelte component for cryptocurrency-icons",
+  "author": "alepop",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": " git+https://github.com/alepop/svelte-cryptoicon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alepop/svelte-cryptoicon/issues"
+  },
+  "homepage": "https://github.com/alepop/svelte-cryptoicon#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^6.0.0",
+    "cryptocurrency-icons": "^0.16.1",
+    "glob": "^7.1.6",
+    "prettier": "^2.0.2",
+    "rollup": "^1.20.0",
+    "rollup-plugin-svelte": "^5.0.0",
+    "svelte": "^3.0.0"
+  },
+  "keywords": [
+    "svelte",
+    "icons",
+    "svg",
+    "crypto",
+    "currency"
+  ],
+  "files": [
+    "src",
+    "dist"
+  ]
+}
