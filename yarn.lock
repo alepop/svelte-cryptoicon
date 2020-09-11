@@ -186,10 +186,10 @@ sourcemap-codec@^1.4.8:
   resolved "https://registry.yarnpkg.com/sourcemap-codec/-/sourcemap-codec-1.4.8.tgz#ea804bd94857402e6992d05a38ef1ae35a9ab4c4"
   integrity sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==
 
-svelte@^3.22.2:
-  version "3.22.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.22.2.tgz#06585244191bf7a112af2a0025610f33d77c3715"
-  integrity sha512-DxumO0+vvHA6NSc2jtVty08I8lFI43q8P2zX6JxZL8J1kqK5NVjad6TRM/twhnWXC+QScnwkZ15O6X1aTsEKTA==
+svelte@^3.25.0:
+  version "3.25.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.25.0.tgz#e7f89d11a2223ac02d29f75f82b2a9cca7fd7a54"
+  integrity sha512-CUfq+YTC5Q0tBg7Q9X/QxNutdEYp7ogdbcTZF3mrowOlp3+OF1ZexHwI0Io2VqFSDxht7TlA2lTIQC4RnhR1MQ==
 
 wrappy@1:
   version "1.0.2"
